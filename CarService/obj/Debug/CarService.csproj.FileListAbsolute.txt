@@ -1,0 +1,268 @@
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.Authification.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.Properties.Resources.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CarService\CarService\bin\Debug\CarService.exe.config
+C:\Users\User\source\repos\CarService\CarService\bin\Debug\CarService.exe
+C:\Users\User\source\repos\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.MainForm.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.exe
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.pdb
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.QuerryForm.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.SelectForm.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.SelectWhereForm.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.ChequeForm.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.ClientDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.MasterDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.OrderDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.CardDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.CityDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.ColorDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.MarkDialog.resources
+C:\Users\User\source\repos\CarService\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 2\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 4 — копия\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 6 — копия\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 7 — копия\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 8\CarService\obj\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\bin\Debug\CarService.exe.config
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\bin\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\bin\Debug\CarService.pdb
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\bin\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\bin\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.csprojAssemblyReference.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.Authification.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.CardDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.CarDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.ChequeForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.CityDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.ClientDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.ColorDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.MainForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.MarkDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.MasterDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.OrderDialog.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.Properties.Resources.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.QuerryForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.SelectForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.SelectWhereForm.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.Authification.en-AU.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.Authification.en.resources
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.csproj.GenerateResource.cache
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\en-AU\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\en\CarService.resources.dll
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.exe
+D:\INCEPTION\уни\4.1 полугодие\- 3) Базы данных\пример\программа бд\CarService — копия 9\CarService\obj\Debug\CarService.pdb
